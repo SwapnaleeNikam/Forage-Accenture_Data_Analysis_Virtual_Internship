@@ -85,23 +85,32 @@ In short, the client wanted to see **“An analysis of their content categories 
  - Top 5 categories
  
  ### Cleaned Data set:
- So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset]()
+ So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/SwapnaleeNikam/Forage-Accenture_Data_Analysis_Virtual_Internship/blob/main/Cleaned%20Dataset.csv)
  
  ## Task - 3
  ### Data Visualization and Storytelling:
  **Make the PowerPoint presentation as per the given template**
  
- - Powerpoint Presentation : [PPT]()
+ - Powerpoint Presentation : [PPT](https://github.com/SwapnaleeNikam/Forage-Accenture_Data_Analysis_Virtual_Internship/blob/main/Final%20PPT.pptx)
  
  ## Task - 4
  ### Present to the Client:
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
 
+ ## Conclusion:
+ This project helped me understand the full process of working with data, from getting a clear understanding of the project and its goals to determining datasets I’ll need for analysis to data cleaning and modeling to analyzing and presenting it to clients.
+
+I was able to combine technical skills (Excel) and presentation skills (PowerPoint) to deliver a final product. The hands-on experience with real data also gave me deeper insights into how businesses use data to make informed decisions.
+
+I learned the importance of keeping things simple for the client—focusing on the most relevant insights and presenting them clearly with visuals that are engaging to tell a compelling story that resonates with the client (using languages, jargon, or words that they’re familiar with). This experience was a great way to improve my data analytics and presentation skills.
+
+I hope this gives you a glimpse into my journey with the Accenture project. If you’re interested in data analytics or thinking about working on projects like this, I highly recommend checking out Forage to get real-world experience. Plus, you’ll be given a certificate of completion at the end of each project.
+
  ## Certificate:
-[Certificate of Completion]()
+[Certificate of Completion](https://github.com/SwapnaleeNikam/Forage-Accenture_Data_Analysis_Virtual_Internship/blob/main/Accenture%20Virtual%20Internship%20Completion%20Certificate.)
 
  ## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile]()
+Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](www.linkedin.com/in/nikamswapnalee)
 
 ## Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #Accenture #Internship
