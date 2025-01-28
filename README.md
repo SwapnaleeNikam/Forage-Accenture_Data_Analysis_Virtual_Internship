@@ -46,7 +46,7 @@ This project was completed as part of the Accenture North America Data Analytics
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
  - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
  - Mae has scheduled a project kick-off call with the internal Accenture project team for tomorrow morning.
- - About Client : [Social Buzz]()
+ - About Client : [Social Buzz](https://github.com/SwapnaleeNikam/Forage-Accenture_Data_Analysis_Virtual_Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture : 
 
@@ -85,7 +85,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  - Top 5 categories
  
  ### Cleaned Data set:
- So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Content%20-%20Reaction%20Type%20-%20Reaction.csv)
+ So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset]()
  
  ## Task - 3
  ### Data Visualization and Storytelling:
